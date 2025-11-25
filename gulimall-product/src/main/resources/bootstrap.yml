@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        namespace: b1408eee-a3a9-4a29-af54-dc54d0762298
+        group: dev
+        file-extension: yaml
+        username: nacos
+        password: nacos
+        server-addr: 192.168.101.100:8848
+  application:
+    name: gulimall-product

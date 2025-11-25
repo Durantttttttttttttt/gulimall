@@ -8,5 +8,4 @@ spring:
         username: nacos
         password: nacos
         file-extension: yaml
-        namespace: c73db548-9e0a-47d8-b33e-05a9c565dfd4
-        group: test
+        group: dev
